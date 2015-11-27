@@ -1,4 +1,8 @@
- 
+/*
+@AUTHOR: RURY GONZALEZ
+@FILE: PROGRAM 3
+*/
+
 .global main
 .func main
    
